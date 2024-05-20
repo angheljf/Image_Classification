@@ -28,6 +28,11 @@ This repository contains files related to image classification using a Convoluti
     jupyter notebook classification.ipynb
     jupyter notebook gradio.ipynb
     ```
+## Gradio Application
+
+The Gradio application allows you to upload an image and get the model's prediction for the image. The application can be run by executing the `gradio.ipynb` notebook.
+
+![Gradio Application](screenshot.png)
 
 ## Author
 
